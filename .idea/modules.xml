@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SafeSchool.iml" filepath="$PROJECT_DIR$/SafeSchool.iml" />
+      <module fileurl="file://C:\Users\alessio\Desktop\Sam_Team\SafeSchool.iml" filepath="C:\Users\alessio\Desktop\Sam_Team\SafeSchool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sam_Team.iml" filepath="$PROJECT_DIR$/Sam_Team.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
