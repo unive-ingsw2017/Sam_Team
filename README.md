@@ -2,7 +2,7 @@
 
 Gruppo Sam Team:
 - Gonella Massimiliano
-- Alessio Iezzi
+- Iezzi Alessio
 - Ormitti Filippo
 - Zottin Silvia<br><br><br>
 ![Ca' Foscari Logo](http://www.veasyt.com/img_2x/about/team/cafoscari_team.jpg)<br>
